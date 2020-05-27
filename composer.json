@@ -1,11 +1,12 @@
 {
   "name": "visiosoft/list-field_type",
   "type": "streams-addon",
-  "description": "List Field Type. Create an array/list of text/textareas without a stream!",
+  "description": "A List Field Type.",
   "keywords": [
     "streams module",
     "field type"
   ],
+  "license": "MIT",
   "authors": [
     {
       "name": "Dia Shalabi.",
